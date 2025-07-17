@@ -1,0 +1,62 @@
+/* Add styles here */
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #F7F5D2;
+}
+h1{
+    text-align: center;
+    color: #CD2B46;
+    border: 2px solid red;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 10px 10px 5px 1px #9c2d40;
+    text-shadow: 5px 5px 6px rgb(255, 109, 93);
+}
+select{
+    text-align:left;
+    padding: 5px;
+    margin: 10px;
+    background-color: white;
+}
+form{
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+input{
+    background-color: white;
+}
+.login {
+    padding: 5px;
+    margin: 10px;
+    font-size: 12px;
+    /* border: 2px solid rgb(119, 255, 78); */
+}
+#search{
+    border: 2px solid rgb(255, 214, 78);
+    /* box-shadow: 5px 5px 5px 1px #ff90a2; */
+}
+.search{
+    padding: 2px;
+    /* border: 2px solid rgb(78, 199, 255); */
+}
+h3{
+    padding: 5px;
+    margin: 10px;
+    font-size: 25px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    margin: 10px;
+}
+img:hover{
+    background-color: #e03b57;
+}
+.bottom{
+    padding: 5px;
+    margin: 5px;
+    /* border: 2px solid black; */
+}
